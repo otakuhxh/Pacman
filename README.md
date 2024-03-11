@@ -1,0 +1,2 @@
+--Realizado por Eddy Zamora, Maria Belén Garcia y Tiffany Jordán
+--La tecla f sirve para detener el programa, fue realizado en codeBlocks
