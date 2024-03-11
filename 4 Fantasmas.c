@@ -1,3 +1,4 @@
+//Por Eddy Zamora, María Belén Garcia y Tiffany Jordán
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
