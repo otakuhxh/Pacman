@@ -67,6 +67,11 @@ Ambas versiones están incluidas como archivos `.c` independientes dentro del re
 - Tiffany Jordán  
 
 ---
+## 📜 Licencia
+
+Este proyecto está creado por los autores mencionados y protegido bajo la licencia CC BY-NC-SA 4.0.
+
+---
 
 ## 📝 Notas
 
