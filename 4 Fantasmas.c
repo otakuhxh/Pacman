@@ -1,4 +1,7 @@
 // (C) 2023 - Por Eddy Zamora, María Belén Garcia y Tiffany Jordán
+// Este código está bajo la licencia CC BY-NC-SA 4.0.
+// No está permitido su uso comercial.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
