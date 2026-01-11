@@ -1,11 +1,11 @@
-//Por Eddy Zamora, MarÌa BelÈn Garcia y Tiffany Jord·n
+// (C) 2023 - Por Eddy Zamora, Mar√≠a Bel√©n Garcia y Tiffany Jord√°n
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
 #include <stdbool.h>
 #include <string.h>
 
-// Definiciones de colores usando cÛdigos ANSI
+// Definiciones de colores usando c√≥digos ANSI
 #define RESET   "\x1B[0m"
 #define RED     "\x1B[31m"
 #define GREEN   "\x1B[32m"
@@ -99,14 +99,14 @@ void intercambiarNodo(struct Nodo *a, struct Nodo *b)
     b->jugador = temp;
 }
 
-// FunciÛn para ordenar la lista enlazada doble por puntaje
+// Funci√≥n para ordenar la lista enlazada doble por puntaje
 void ordenarLista()
 {
     int intercambiado;
     struct Nodo *puntero;
     struct Nodo *ultimo = NULL;
 
-    // Manejo de lista vacÌa o con un solo elemento
+    // Manejo de lista vac√≠a o con un solo elemento
     if (cabeza == NULL || cabeza->siguiente == NULL)
     {
         return;
